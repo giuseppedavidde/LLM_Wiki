@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Raw PDF files — markdown extracts are committed instead
+*.pdf
+
+# Obsidian
+*.canvas
