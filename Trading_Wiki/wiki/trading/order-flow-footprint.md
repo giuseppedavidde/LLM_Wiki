@@ -1,7 +1,7 @@
 # Order Flow and Footprint Analysis
 
 > Sources: Rubén Villahermosa Chaves, 2021
-> Raw: [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md)
+> Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
 
 ## Overview
 
@@ -87,11 +87,26 @@ Order flow patterns appear across all timeframes. A turning pattern on a 1-minut
 
 ## See Also
 
-- [Volume Profile](volume-profile.md)
-- [Auction Market Theory](auction-market-theory.md)
-- [Wyckoff 2.0 Framework](wyckoff-2-framework.md)
-- [Tape Reading and Weis Wave](tape-reading-wis-wave.md)
-- [Absorption](absorption.md)
-- [Market Ecosystem and Participants](market-ecosystem-participants.md)
-- [Volman Pattern Break Setups](../scalping_trading/volman-pattern-break-setups.md) — breakout timing with buildup and signal bars
-- [Crypto Technical Analysis](../crypto_trading/crypto-technical-analysis.md) — TA in 24/7 crypto markets
+- [Springs](springs.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Continuation Pattern (Order Flow) | Defines | EXTRACTED |
+| Delta (Order Flow) | Defines | EXTRACTED |
+| Footprint Charts | Defines | EXTRACTED |
+| Imbalances (Order Flow) | Defines | EXTRACTED |
+| Market Makers / Specialists | Conceptually Related To | EXTRACTED |
+| Order Book | Defines | EXTRACTED |
+| Order Flow | Defines | EXTRACTED |
+| Turning Pattern (Order Flow) | Defines | EXTRACTED |
+| Volume Profile | Conceptually Related To | EXTRACTED |
+| Wyckoff Methodology | Teaches | EXTRACTED |
+
+### Related Images
+![Fig 12.12 Delta Volume schematic showing net difference betw](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p270_i0.png)
+![Daily equity-only put/call ratio chart with smoothed 10-DEMA](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p36_i0.png)
+![CBOE total put/call ratio historical pattern with smoothed s](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p37_i0.png)
+![Comparison of equity-only and index put/call ratios showing ](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p38_i0.png)
+![CBOE intraday put/call ratios showing bullish signal with th](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p41_i0.png)
+![Most active CBOE call options series showing Microsoft as le](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p92_i0.png)

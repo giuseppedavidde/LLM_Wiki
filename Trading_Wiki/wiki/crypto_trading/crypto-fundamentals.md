@@ -1,7 +1,7 @@
 # Cryptocurrency Fundamentals
 
 > Sources: Frank Richmond, 2018
-> Raw: [Crypto Crash Course](../../raw/crypto-crash-course/2026-05-20-crypto-crash-course.md)
+> Raw: [Crypto Crash Course](../../raw/crypto/the-crypto-crash-course-the-ultimate-cryptocurrency-guide-for-beginners-a-thorou.md)
 
 ## Overview
 
@@ -189,3 +189,9 @@ ICOs carry extreme risk: an estimated 96% of ICO projects fail. Approach with ca
 - [Crypto Hype Analysis](crypto-hype-analysis.md)
 - [Market Ecosystem and Participants](../trading/market-ecosystem-participants.md)
 - [Crypto Fundamental Analysis](crypto-fundamental-analysis.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Cryptocurrency Exchanges | Required For | EXTRACTED |
+| Cryptocurrency Wallets | Required For | EXTRACTED |

@@ -1,7 +1,7 @@
 # Wyckoff 2.0 Framework
 
 > Sources: Rubén Villahermosa Chaves, 2021; David Weis, 2013
-> Raw: [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md); [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md)
+> Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
 
 ## Overview
 
@@ -139,3 +139,29 @@ The market must be given *flexibility* in the development of structures. The Wyc
 - [Absorption](absorption.md)
 - [Tape Reading and Weis Wave](tape-reading-wis-wave.md)
 - [Contrarian Sentiment Analysis](contrarian-sentiment-analysis.md) — crowd sentiment indicators for timing context shifts
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Absorption | Part Of | EXTRACTED |
+| Crabel Narrow Range Patterns | Complements | EXTRACTED |
+| David H. Weis | Modernized By | EXTRACTED |
+| Demand vs Supply | Foundation Of | EXTRACTED |
+| Effort vs Reward (E/R) | Technique Of | EXTRACTED |
+| Hinge | Part Of | EXTRACTED |
+| Position of Close | Component Of | EXTRACTED |
+| Price Range (Spread) | Component Of | EXTRACTED |
+| Richard Wyckoff | Created By | EXTRACTED |
+| Shortening of Thrust (SOT) | Part Of | EXTRACTED |
+| Spring | Part Of | EXTRACTED |
+| Upthrust | Part Of | EXTRACTED |
+| Volume Analysis | Component Of | EXTRACTED |
+| Wyckoff Methodology | Defines | EXTRACTED |
+
+### Related Images
+![The market cycle showing accumulation, markup, distribution,](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p122_i0.png)
+![Spring pattern: price breaks below support then reverses wit](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p100_i0.png)
+![Upthrust pattern: price pushes above resistance then fails w](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p101_i0.png)
+![Accumulation trading range with multiple springs showing ins](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p103_i0.png)
+![Distribution after up-trend with upthrusts indicating instit](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p106_i0.png)
+![Wyckoff accumulation schematic showing phases A through E of](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p115_i0.png)

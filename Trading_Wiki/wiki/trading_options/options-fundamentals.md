@@ -1,7 +1,7 @@
 # Options Fundamentals
 
 > Sources: Brian Overby, The Options Playbook; George Fontanills, The Options Course Workbook; Mark Elder & Brian Douglas, Options Trading Crash Course
-> Raw: [Options Playbook](../../raw/options/2026-05-20-options-playbook.md); [Options Course Workbook](../../raw/options/2026-05-20-options-course-workbook.md); [Options Crash Course](../../raw/options/2026-05-20-options-crash-course.md)
+> Raw: [Options Playbook](../../raw/options/the-options-playbook-expanded-2nd-edition-featuring-40-strategies-for-bulls-bear.md); [Options Course Workbook](../../raw/options/the-options-course-workbook-step-by-step-exercises-and-tests-to-help-you-master-.md); [Options Crash Course](../../raw/options/options-trading-crash-course-advanced-guide-to-make-money-with-options-trading-i.md)
 
 ## What Is an Option
 
@@ -89,3 +89,22 @@ Index options differ from equity options: they are typically European-style (no 
 - [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md) — put/call ratios, VIX sentiment
 - [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — price action for options entries
 - [Crypto Hype Analysis](../crypto_trading/crypto-hype-analysis.md) — sentiment analysis parallels
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Bear Put Spread | Strategy For | EXTRACTED |
+| Bull Call Spread | Strategy For | EXTRACTED |
+| Call Option | Contrasts With | EXTRACTED |
+| Covered Call | Strategy For | EXTRACTED |
+| Delta | Defines | EXTRACTED |
+| Expiration Date | Defines | EXTRACTED |
+| Iron Condor | Strategy For | EXTRACTED |
+| LEAPS (Long-Term Equity Options) | Defines | EXTRACTED |
+| Long Call | Strategy For | EXTRACTED |
+| Long Put | Strategy For | EXTRACTED |
+| Long Straddle | Strategy For | EXTRACTED |
+| Long Strangle | Strategy For | EXTRACTED |
+| Option Premium | Defines | EXTRACTED |
+| Protective Put | Strategy For | EXTRACTED |
+| Put Option | Contrasts With | EXTRACTED |

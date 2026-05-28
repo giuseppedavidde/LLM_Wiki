@@ -1,7 +1,7 @@
 # Crypto Fundamental Analysis
 
 > Sources: Alan John & Jon Law, 2021
-> Raw: [Crypto Technical Analysis](../../raw/crypto-technical-analysis/2026-05-20-crypto-technical-analysis.md)
+> Raw: [Crypto Technical Analysis](../../raw/crypto/crypto-technical-analysis-your-one-stop-guide-to-investing-trading-and-profiting.md)
 
 ## Overview
 
@@ -126,3 +126,10 @@ Fundamental analysis identifies undervalued projects with strong fundamentals. T
 - [Volume Profile](../trading/volume-profile.md)
 - [Order Flow and Footprint](../trading/order-flow-footprint.md)
 - [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Crypto Supply Mechanisms | Component Of | EXTRACTED |
+| Market Capitalization | Metric In | EXTRACTED |
+| Technical Analysis | Contrasts With | EXTRACTED |

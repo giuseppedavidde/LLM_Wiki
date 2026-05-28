@@ -1,7 +1,7 @@
 # Crypto Technical Analysis
 
 > Sources: Alan John & Jon Law, 2021
-> Raw: [Crypto Technical Analysis](../../raw/crypto-technical-analysis/2026-05-20-crypto-technical-analysis.md)
+> Raw: [Crypto Technical Analysis](../../raw/crypto/crypto-technical-analysis-your-one-stop-guide-to-investing-trading-and-profiting.md)
 
 ## Why Technical Analysis Works for Crypto
 
@@ -203,3 +203,22 @@ The True Strength Index (TSI), Commodity Channel Index (CCI), Klinger Oscillator
 - [Volume Profile](../trading/volume-profile.md)
 - [Order Flow and Footprint](../trading/order-flow-footprint.md)
 - [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Algorithmic Trading | Automates | EXTRACTED |
+| Bollinger Bands | Indicator In | EXTRACTED |
+| Candlestick Chart | Uses | EXTRACTED |
+| Candlestick Patterns (50) | Formed On | EXTRACTED |
+| Cup and Handle | Pattern In | EXTRACTED |
+| Double Top / Double Bottom | Pattern In | EXTRACTED |
+| Fibonacci Retracement | Tool In | EXTRACTED |
+| Fundamental Analysis | Contrasts With | EXTRACTED |
+| Gann Analysis | Indicator In | EXTRACTED |
+| Head and Shoulders | Pattern In | EXTRACTED |
+| Heikin-Ashi Chart | Derived From | EXTRACTED |
+| Hype Analysis | Contrasts With | EXTRACTED |
+| Ichimoku Cloud (Kinko Hyo) | Indicator In | EXTRACTED |
+| MACD | Oscillator In | EXTRACTED |
+| Moving Averages (MA/EMA) | Indicator In | EXTRACTED |

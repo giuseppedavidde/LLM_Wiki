@@ -1,7 +1,7 @@
 # Contrarian Sentiment Analysis
 
 > Sources: John F. Summa, Unknown
-> Raw: [Trading Against the Crowd](../../raw/trading/2026-05-20-trading-against-the-crowd.md)
+> Raw: [Trading Against the Crowd](../../raw/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-stock-futures-and-opt.md)
 
 ## Overview
 
@@ -135,3 +135,12 @@ Combined with quantitative sentiment indicators, media sentiment provides a qual
 - [Absorption](absorption.md)
 - [Crypto Hype Analysis](../crypto_trading/crypto-hype-analysis.md) — hype/sentiment analysis for cryptocurrency markets
 - [Options Volatility](../trading_options/options-volatility.md) — implied volatility, VIX, volatility skew for options
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Humphrey B. Neill | Pioneered By | EXTRACTED |
+| John Summa | Used By | EXTRACTED |
+| Put/Call Ratio | Instrument Of | EXTRACTED |
+| Tape Reading | Related To | EXTRACTED |
+| Trading Psychology | Related To | EXTRACTED |

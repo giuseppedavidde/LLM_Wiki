@@ -1,7 +1,7 @@
 # Wyckoff Method — Modern Adaptation
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021; Anna Coulling, 2013
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md); [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/2026-05-20-volume-price-analysis.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
 
 ## Overview
 
@@ -472,12 +472,31 @@ Coulling's VPA is particularly effective for traders who want a volume-based app
 
 ## See Also
 
-- [Auction Market Theory](auction-market-theory.md)
-- [Bar Chart Reading](bar-chart-reading.md)
-- [Trading Ranges and Lines](trading-ranges-support-resistance.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Absorption](absorption.md)
-- [Wyckoff 2.0 Framework](wyckoff-2-framework.md)
-- [Point-and-Figure and Renko](point-figure-renko.md)
-- [Market Ecosystem and Participants](market-ecosystem-participants.md)
+- [Volume Price Analysis Vpa](volume-price-analysis-vpa.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Accumulation | Defines | EXTRACTED |
+| Auction Market Theory | Teaches | EXTRACTED |
+| Distribution | Defines | EXTRACTED |
+| Failed Structure / Failed Distribution | Defines | EXTRACTED |
+| Law of Cause and Effect | Defines | EXTRACTED |
+| Law of Effort vs Result | Defines | EXTRACTED |
+| Law of Supply and Demand | Defines | EXTRACTED |
+| Order Flow | Teaches | EXTRACTED |
+| Price Action | Teaches | EXTRACTED |
+| Richard Wyckoff | Defines | EXTRACTED |
+| Shakeout (JAC) | Defines | EXTRACTED |
+| Shortening of Thrust (SOT) | Defines | EXTRACTED |
+| Sloping Structures | Defines | EXTRACTED |
+| Spring | Defines | EXTRACTED |
+| Structural Failure | Defines | EXTRACTED |
+
+### Related Images
+![Spring and upthrust comparison showing mechanical characteri](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p101_i1.png)
+![Automatic rally (AR) and secondary test (ST) following selli](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p111_i0.png)
+![Phase B of accumulation: secondary test with declining volum](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p116_i1.png)
+![Phase D of accumulation: last point of support (LPS) with ri](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p119_i0.png)
+![Phase E of accumulation: markup phase with price rising out ](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p119_i1.png)
+![Silver Continuation Monthly Chart — four-year apex (1974–197](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p58_i0.png)

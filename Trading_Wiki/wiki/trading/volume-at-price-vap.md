@@ -1,7 +1,7 @@
 # Volume at Price (VAP)
 
 > Sources: Anna Coulling, 2013
-> Raw: [A Complete Guide To Volume Price Analysis](../../raw/trading/2026-05-20-volume-price-analysis.md)
+> Raw: [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
 
 ## Overview
 
@@ -78,3 +78,17 @@ VAP is useful for quick visual assessment of individual bars. Volume Profile pro
 - [Order Flow and Footprint](order-flow-footprint.md)
 - [Auction Market Theory](auction-market-theory.md)
 - [Trading Ranges and Lines](trading-ranges-support-resistance.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Volume Price Analysis (VPA) | Defines | EXTRACTED |
+| Volume Profile | Conceptually Related To | EXTRACTED |
+
+### Related Images
+![Fig 9.10: Sales volume vs price chart with price on X axis a](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p204_i0.png)
+![Fig 9.11: Rotated view of sales volume vs price chart swung ](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p205_i0.png)
+![Fig 9.12: Microsoft (MSFT) 15-minute chart showing tradition](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p207_i0.png)
+![Fig 9.13: Microsoft (MSFT) 15-minute chart after open showin](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p211_i0.png)
+![Fig 9.14: Alcoa (AA) hourly chart with VAP showing huge volu](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p212_i0.png)
+![Fig 9.15: Proctor & Gamble (PG) daily chart covering 6 month](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p213_i0.png)

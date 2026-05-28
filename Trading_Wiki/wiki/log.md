@@ -140,3 +140,7 @@
 - Added 3 images to options-fundamentals.md (contract specs, time value, covered/naked)
 - Added 5 images to options-strategies.md (covered call, straddle/strangle, iron condor, calendar, butterfly)
 - Total: 12 images added across 4 articles
+
+## [2026-05-27] lint | 73 issues found, 57 auto-fixed
+## [2026-05-27] lint | Heuristic: 16 orphan pages resolved (See Also links added)
+  - 9 See Also sections added/updated across trading/, scalping_trading/, crypto_trading/, trading_options/

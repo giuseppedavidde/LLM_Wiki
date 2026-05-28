@@ -1,7 +1,7 @@
 # Auction Market Theory
 
 > Sources: Rubén Villahermosa Chaves, 2021; David Weis, 2013
-> Raw: [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md); [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md)
+> Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
 
 ## Overview
 
@@ -106,3 +106,9 @@ The true engine of financial markets. Regardless of participant type or intent, 
 - [Absorption](absorption.md)
 - [Wyckoff Method Overview](wyckoff-method-overview.md)
 - [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — seven core price action principles applied to 5-min scalping
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Volume Profile | Teaches | EXTRACTED |
+| Wyckoff Methodology | Teaches | EXTRACTED |

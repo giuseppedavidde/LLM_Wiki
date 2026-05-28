@@ -1,7 +1,7 @@
 # Point-and-Figure and Renko Charts
 
 > Sources: David Weis, 2013
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
 
 ## Overview
 
@@ -99,8 +99,10 @@ P&F projections complement the Weis Wave analysis. The "preparation" visible on 
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Tape Reading and Weis Wave](tape-reading-wis-wave.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Trading Ranges and Lines](trading-ranges-support-resistance.md)
+- [Bar Chart Reading](bar-chart-reading.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Candlestick Chart | Alternative To | EXTRACTED |
+| Tape Reading | Used In | EXTRACTED |

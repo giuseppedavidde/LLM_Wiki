@@ -1,7 +1,7 @@
 # Trading Ranges, Support, and Resistance Lines
 
 > Sources: David Weis, 2013; Anna Coulling, 2013
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/2026-05-20-volume-price-analysis.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
 
 ## Overview
 
@@ -242,3 +242,25 @@ Brief counter-trend congestion after a sharp move. Volume should contract during
 - [Upthrusts](upthrusts.md)
 - [Volume Price Analysis (VPA)](volume-price-analysis-vpa.md)
 - [Volume at Price (VAP)](volume-at-price-vap.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Apex | Variant Of | EXTRACTED |
+| Creek | Conceptually Related To | EXTRACTED |
+| Double Top / Double Bottom | Conceptually Related To | EXTRACTED |
+| Price Action | Defines | EXTRACTED |
+| Spring | Occurs At | EXTRACTED |
+| Strong Rejection | Conceptually Related To | EXTRACTED |
+| Support and Resistance | Defined By | EXTRACTED |
+| Technical Test | Conceptually Related To | EXTRACTED |
+| Trading Range | Defined By | EXTRACTED |
+| Upthrust | Occurs At | EXTRACTED |
+
+### Related Images
+![Rejection setup real trade example #1 showing price rejectio](../../graphify-out/images/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l_p176_i0.png)
+![Support and resistance schematic using the house analogy of ](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p163_i0.png)
+![Fear and greed cycle in a bull trend - emotional trading at ](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p166_i0.png)
+![Isolated pivots - defining points for start of congestion ph](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p172_i0.png)
+![Congestion entrance in a bullish trend with pivot low and pi](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p174_i0.png)
+![Fig 11.10 GBP/USD 15m Chart showing price congestion phase w](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p246_i0.png)

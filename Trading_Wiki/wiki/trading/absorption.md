@@ -1,7 +1,7 @@
 # Absorption
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md); [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
 
 ## Overview
 
@@ -131,11 +131,9 @@ These Order Flow patterns provide the micro-structure confirmation of absorption
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Auction Market Theory](auction-market-theory.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Bar Chart Reading](bar-chart-reading.md)
-- [Volume Profile](volume-profile.md)
-- [Market Ecosystem and Participants](market-ecosystem-participants.md)
+- [Trading Ranges Support Resistance](trading-ranges-support-resistance.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Wyckoff Method | Part Of | EXTRACTED |

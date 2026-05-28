@@ -1,7 +1,7 @@
 # Institutional Price Action
 
 > Sources: Trader Dale, Unknown
-> Raw: [Volume Profile: The Insiders Guide](../../raw/trading/2026-05-20-volume-profile-trader-dale.md)
+> Raw: [Volume Profile: The Insiders Guide](../../raw/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-library.md)
 
 ## Overview
 
@@ -107,3 +107,30 @@ A breakout that immediately fails and reverses. In a failed auction, the market 
 - [Upthrusts](upthrusts.md)
 - [Market Ecosystem and Participants](market-ecosystem-participants.md)
 - [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — scalping price action on the 5-minute frame
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| 25 Exponential Moving Average | Teaches | EXTRACTED |
+| AB=CD Pattern | Defines | EXTRACTED |
+| Aggressive Initiation | Defines | EXTRACTED |
+| Backtesting | Teaches | EXTRACTED |
+| Breakout | Defines | EXTRACTED |
+| Buildup / Pre-breakout Tension | Defines | EXTRACTED |
+| Ceiling Test | Defines | EXTRACTED |
+| Double Pressure | Defines | EXTRACTED |
+| Failed Auction | Defines | EXTRACTED |
+| False Breaks | Defines | EXTRACTED |
+| False Highs and Lows | Defines | EXTRACTED |
+| Open-Drive | Defines | EXTRACTED |
+| Proper Breaks | Defines | EXTRACTED |
+| Pullback Reversals | Defines | EXTRACTED |
+| Round Number Effect | Defines | EXTRACTED |
+
+### Related Images
+![Chart illustrating sideways price action area where institut](../../graphify-out/images/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l_p16_i2.png)
+![Fig 3.10 A Typical Candle diagram showing candlestick anatom](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p48_i0.png)
+![Fig 3.11 Price Action As A Sine Wave visualization showing p](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p49_i0.png)
+![Fig 3.12 Lower Wick Example diagram showing price action whe](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p51_i0.png)
+![Fig 3.13 Upper Wick Example diagram showing price action whe](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p54_i0.png)
+![Fig 3.14 Candle From Lower Wick Example showing the resultin](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p56_i0.png)

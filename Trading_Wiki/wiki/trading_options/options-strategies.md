@@ -1,7 +1,7 @@
 # Options Strategies
 
 > Sources: Brian Overby, The Options Playbook; George Fontanills, The Options Course Workbook; Unknown Author, Options Crash Course
-> Raw: [Options Playbook](../../raw/options/2026-05-20-options-playbook.md); [Options Course Workbook](../../raw/options/2026-05-20-options-course-workbook.md); [Options Crash Course](../../raw/options/2026-05-20-options-crash-course.md)
+> Raw: [Options Playbook](../../raw/options/the-options-playbook-expanded-2nd-edition-featuring-40-strategies-for-bulls-bear.md); [Options Course Workbook](../../raw/options/the-options-course-workbook-step-by-step-exercises-and-tests-to-help-you-master-.md); [Options Crash Course](../../raw/options/options-trading-crash-course-advanced-guide-to-make-money-with-options-trading-i.md)
 
 ## Overview
 
@@ -498,3 +498,18 @@ Note: Greeks are approximate at initiation. They change dynamically as the under
 - [Options Greeks](options-greeks.md)
 - [Options Volatility](options-volatility.md)
 - [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Bear Put Spread | Defines | EXTRACTED |
+| Bull Call Spread | Defines | EXTRACTED |
+| Buy Write | Conceptually Related To | EXTRACTED |
+| Call Option | Strategy For | EXTRACTED |
+| Collar | Defines | EXTRACTED |
+| Covered Call | Defines | EXTRACTED |
+| Fig Leaf | Conceptually Related To | EXTRACTED |
+| LEAPS (Long-Term Equity Options) | Strategy For | EXTRACTED |
+| Protective Put | Defines | EXTRACTED |
+| Put Option | Strategy For | EXTRACTED |
+| Vertical Spread | Defines | EXTRACTED |

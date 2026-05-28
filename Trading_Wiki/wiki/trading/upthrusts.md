@@ -1,7 +1,7 @@
 # Upthrusts
 
 > Sources: David Weis, 2013
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
 
 ## Overview
 
@@ -138,7 +138,22 @@ Professional selling at a top is often obscured under cover of public buying. Pr
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Springs](springs.md)
-- [Absorption](absorption.md)
-- [Trading Ranges and Lines](trading-ranges-support-resistance.md)
+- [Wyckoff 2 Framework](wyckoff-2-framework.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Distribution | Conceptually Related To | EXTRACTED |
+| Effort vs Reward (E/R) | Exemplifies | EXTRACTED |
+| Shakeout (JAC) | Conceptually Related To | EXTRACTED |
+| Support and Resistance | Occurs At | EXTRACTED |
+| Wyckoff Method | Part Of | EXTRACTED |
+| Wyckoff Methodology | Defines | EXTRACTED |
+
+### Related Images
+![Upthrust pattern: price pushes above resistance then fails w](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p101_i0.png)
+![Spring and upthrust comparison showing mechanical characteri](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p101_i1.png)
+![Home Depot Weekly Chart — incomplete apex with upthrust, bea](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p63_i0.png)
+![Figure 4.5 S&P Daily Chart 2 — narrow range at new highs sug](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p75_i0.png)
+![Fig 11.14: December 2012 S&P Five-Minute Chart showing upthr](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p212_i0.png)
+![Chart showing a spring and upthrust pattern with annotation ](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p127_i0.png)

@@ -1,7 +1,7 @@
 # Springs
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md); [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
 
 ## Overview
 
@@ -44,8 +44,6 @@ The spring should also be evaluated with Volume Profile:
 - Is value area support nearby?
 - Is the POC migrating upward after the spring?
 
-
-
 ## Figures from Trades About to Happen — Ch.5
 
 ![Chart from Trades About to Happen — Ch.5](images/weis_p73_1.png)
@@ -75,9 +73,6 @@ The spring should also be evaluated with Volume Profile:
 ![Chart from Trades About to Happen — Ch.5](images/weis_p93_1.jpeg)
 
 ![Chart from Trades About to Happen — Ch.5](images/weis_p94_1.jpeg)
-
-
-
 
 ## Figures from Wyckoff 2.0 — Part 1
 
@@ -147,8 +142,6 @@ The spring should also be evaluated with Volume Profile:
 
 ![Chart from Wyckoff 2.0 — Part 1](images/wyckoff2_p59_1.jpeg)
 
-
-
 ## Figures from A Complete Guide To Volume Price Analysis — Ch.4-5
 
 ![False breakdown failing to follow through](images/coulling_p127_1.jpeg)
@@ -161,8 +154,27 @@ The spring should also be evaluated with Volume Profile:
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Upthrusts](upthrusts.md)
-- [Absorption](absorption.md)
-- [Bar Chart Reading](bar-chart-reading.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
+- [Trading Ranges Support Resistance](trading-ranges-support-resistance.md)
+- [Wyckoff 2 Framework](wyckoff-2-framework.md)
+
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Accumulation | Conceptually Related To | EXTRACTED |
+| Effort vs Reward (E/R) | Exemplifies | EXTRACTED |
+| Secondary Test | Followed By | EXTRACTED |
+| Shakeout (JAC) | Conceptually Related To | EXTRACTED |
+| Support and Resistance | Occurs At | EXTRACTED |
+| Terminal Shakeout | Variant Of | EXTRACTED |
+| Wyckoff Method | Part Of | EXTRACTED |
+| Wyckoff Methodology | Defines | EXTRACTED |
+
+### Related Images
+![Multiple support tests with declining volume showing supply ](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p79_i0.png)
+![Spring pattern: price breaks below support then reverses wit](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p100_i0.png)
+![Spring and upthrust comparison showing mechanical characteri](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p101_i1.png)
+![Multi-point spring pattern with annotations showing price-vo](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p104_i0.png)
+![Phase C of accumulation: the spring as last point of support](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p118_i0.png)
+![Figure 4.2 Hypothetical Price Movement — 20-day decline with](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p69_i0.png)
+- [Trading Ranges Support Resistance](trading-ranges-support-resistance.md)

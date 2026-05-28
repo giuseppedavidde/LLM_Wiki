@@ -1,7 +1,7 @@
 # Volume Profile
 
 > Sources: Rubén Villahermosa Chaves, 2021; Trader Dale, Unknown
-> Raw: [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md); [Volume Profile: The Insiders Guide](../../raw/trading/2026-05-20-volume-profile-trader-dale.md)
+> Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [Volume Profile: The Insiders Guide](../../raw/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-library.md)
 
 ## Overview
 
@@ -201,11 +201,31 @@ A special case of the rejection setup where price breaks a key level then immedi
 
 ## See Also
 
-- [Auction Market Theory](auction-market-theory.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
-- [Wyckoff 2.0 Framework](wyckoff-2-framework.md)
-- [Trading Ranges and Lines](trading-ranges-support-resistance.md)
-- [Market Ecosystem and Participants](market-ecosystem-participants.md)
-- [Volume at Price (VAP)](volume-at-price-vap.md)
-- [Volman Pattern Break Setups](../scalping_trading/volman-pattern-break-setups.md) — breakout scalping setups with buildup/stop placement
-- [Crypto Technical Analysis](../crypto_trading/crypto-technical-analysis.md) — TA techniques applied to cryptocurrency markets
+- [Volume Price Analysis Vpa](volume-price-analysis-vpa.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Auction Market Theory | Teaches | EXTRACTED |
+| D-Profile | Defines | EXTRACTED |
+| Flexible Volume Profile | Defines | EXTRACTED |
+| High Volume Node (HVN) | Defines | EXTRACTED |
+| Order Flow | Conceptually Related To | EXTRACTED |
+| P-Profile | Defines | EXTRACTED |
+| Point of Control (POC) | Conceptually Related To | EXTRACTED |
+| Price Action | Teaches | EXTRACTED |
+| Rejection Setup | Defines | EXTRACTED |
+| Thin Profile | Defines | EXTRACTED |
+| Tick Volume | Teaches | EXTRACTED |
+| Trend Setup | Defines | EXTRACTED |
+| Value Area (VA) | Defines | EXTRACTED |
+| Volume Accumulation Setup | Defines | EXTRACTED |
+| Volume Point of Control (VPOC) | Defines | EXTRACTED |
+
+### Related Images
+![Volume bar comparison chart showing relative volume analysis](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p69_i0.png)
+![Volume-price divergence with weakening volume on up-moves wa](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p74_i0.png)
+![volume-profile-the-insiders-guide-to-trading-trader-dale-z-l](../../graphify-out/images/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l_p75_i2.png)
+![Volume Profile illustration from page 52, image 2](../../graphify-out/images/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l/volume-profile-the-insiders-guide-to-trading-trader-dale-z-l_p52_i2.png)
+![Detailed price chart with marked support/resistance and volu](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p130_i0.png)
+![Chart showing price action breakout with retest and volume c](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p130_i1.png)

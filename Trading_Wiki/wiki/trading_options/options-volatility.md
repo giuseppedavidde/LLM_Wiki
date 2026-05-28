@@ -1,7 +1,7 @@
 # Options Volatility
 
 > Sources: Brian Overby, The Options Playbook; George Fontanills, The Options Course Workbook
-> Raw: [Options Playbook](../../raw/options/2026-05-20-options-playbook.md); [Options Course Workbook](../../raw/options/2026-05-20-options-course-workbook.md)
+> Raw: [Options Playbook](../../raw/options/the-options-playbook-expanded-2nd-edition-featuring-40-strategies-for-bulls-bear.md); [Options Course Workbook](../../raw/options/the-options-course-workbook-step-by-step-exercises-and-tests-to-help-you-master-.md)
 
 ## What Is Volatility
 
@@ -77,3 +77,21 @@ Earnings announcements are predictable volatility events. IV typically rises int
 - [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md) — put/call ratios, VIX sentiment
 - [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — price action for options entries
 - [Crypto Hype Analysis](../crypto_trading/crypto-hype-analysis.md) — sentiment analysis parallels
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Bid Ask Spread | Conceptually Related To | EXTRACTED |
+| Black Scholes Model | Defines | EXTRACTED |
+| Call Option | Defines | EXTRACTED |
+| Historical Volatility | Contrasts With | EXTRACTED |
+| Implied Volatility | Contrasts With | EXTRACTED |
+| Implied Volatility | Defines | EXTRACTED |
+| Intrinsic Value | Defines | EXTRACTED |
+| Leverage | Conceptually Related To | EXTRACTED |
+| Option Premium | Defines | EXTRACTED |
+| Put Option | Defines | EXTRACTED |
+| Rho | Defines | EXTRACTED |
+| Standard Deviation | Conceptually Related To | EXTRACTED |
+| Time Value | Defines | EXTRACTED |
+| Vega | Defines | EXTRACTED |

@@ -1,7 +1,7 @@
 # Market Ecosystem and Participants
 
 > Sources: Rubén Villahermosa Chaves, 2021
-> Raw: [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md)
+> Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
 
 ## Overview
 
@@ -82,3 +82,23 @@ The Wyckoff methodology operates on the premise that markets are **deterministic
 - [Contrarian Sentiment Analysis](contrarian-sentiment-analysis.md) — measuring crowd sentiment in modern markets
 - [Cryptocurrency Fundamentals](../crypto_trading/crypto-fundamentals.md) — crypto market structure and participants
 - [Options Fundamentals](../trading_options/options-fundamentals.md) — options contract specifications and market mechanics
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Equity-Only Put/Call Ratio | Contrasts With | EXTRACTED |
+| John Summa | Identified By | EXTRACTED |
+| Market Makers / Specialists | Conceptually Related To | EXTRACTED |
+| OEX Put/Call Ratio | Identifies | EXTRACTED |
+| Order Flow | Conceptually Related To | EXTRACTED |
+| Richard Ney | Defines | EXTRACTED |
+| Smart Money / Insiders | Conceptually Related To | EXTRACTED |
+| Volume Price Analysis (VPA) | Teaches | EXTRACTED |
+
+### Related Images
+![Fig 10.20 ES E-mini 10 Min Chart showing trap up move, shoot](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p238_i0.png)
+![Volume spread analysis (VSA) chart with wide spread bars ind](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p95_i0.png)
+![Chapter 4 title page - The Options Trading Crowd at Extremes](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p44_i0.png)
+![Book cover - Trading Against the Crowd title page](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p4_i0.png)
+![Copyright and publication details page](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p4_i1.png)
+![Chapter 5 title page - Does the Entire Group of Options Trad](../../graphify-out/images/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-s/trading-against-the-crowd-profiting-from-fear-and-greed-in-s_p54_i0.png)

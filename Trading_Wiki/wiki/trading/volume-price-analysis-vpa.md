@@ -1,7 +1,7 @@
 # Volume Price Analysis (VPA)
 
 > Sources: Anna Coulling, 2013
-> Raw: [A Complete Guide To Volume Price Analysis](../../raw/trading/2026-05-20-volume-price-analysis.md)
+> Raw: [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
 
 ## Overview
 
@@ -206,3 +206,30 @@ The daily routine of a VPA trader:
 - [Volume at Price (VAP)](volume-at-price-vap.md)
 - [Volume Profile](volume-profile.md)
 - [Order Flow and Footprint](order-flow-footprint.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Accumulation | Defines | EXTRACTED |
+| Buying Climax | Defines | EXTRACTED |
+| Candlestick Chart | Teaches | EXTRACTED |
+| Distribution | Defines | EXTRACTED |
+| Dow Theory | References | EXTRACTED |
+| Law of Cause and Effect | Defines | EXTRACTED |
+| Law of Effort vs Result | Defines | EXTRACTED |
+| Law of Supply and Demand | Defines | EXTRACTED |
+| Market Makers / Specialists | Teaches | EXTRACTED |
+| Price Action | Teaches | EXTRACTED |
+| Richard Wyckoff | Defines | EXTRACTED |
+| Selling Climax | Defines | EXTRACTED |
+| Smart Money / Insiders | Teaches | EXTRACTED |
+| Tape Reading | References | EXTRACTED |
+| Tick Volume | Teaches | EXTRACTED |
+
+### Related Images
+![Narrow spread candles with low vs high volume - effort vs re](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p152_i0.png)
+![Stopping volume pattern showing insiders slowing a downtrend](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p156_i0.png)
+![Topping out volume pattern showing distribution phase culmin](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p159_i0.png)
+![Fig 10.19 YM E-mini 5 Min Chart showing bullish trend with g](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p236_i0.png)
+![Fig 10.20 ES E-mini 10 Min Chart showing trap up move, shoot](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p238_i0.png)
+![Fig 10.21 Coffee Futures 80 Tick Chart showing volume spike,](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p241_i0.png)

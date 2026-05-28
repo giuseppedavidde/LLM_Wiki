@@ -1,7 +1,7 @@
 # Tape Reading and the Weis Wave
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md); [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
 
 ## Overview
 
@@ -100,9 +100,24 @@ In the Wyckoff 2.0 framework, the Weis Wave and Order Flow complement each other
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
-- [Bar Chart Reading](bar-chart-reading.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — price action scalping principles (buildup, breaks, double pressure)
+- [Point Figure Renko](point-figure-renko.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Contrary Opinion Theory | Related To | EXTRACTED |
+| David H. Weis | Created By | EXTRACTED |
+| Jesse Livermore | Teaches | EXTRACTED |
+| Point & Figure Charting | Used In | EXTRACTED |
+| Richard Wyckoff | Pioneered By | EXTRACTED |
+| Tape Reading | Derived From | EXTRACTED |
+| Volume Price Analysis (VPA) | References | EXTRACTED |
+| Weis Wave | Derived From | EXTRACTED |
+
+### Related Images
+![Fig 1.11 Historical ticker tape from the Wall Street Crash o](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p24_i0.png)
+![Fig 1.12 Electronic Ticker showing modern digital price tick](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p26_i0.png)
+![Figure 4.1 Sequential Chart Reading — ten abstract two-bar s](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p66_i0.png)
+![Fig 1.10: Historical ticker tape example showing Morse-code ](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p22_i0.png)
+![Fig 11.13 (Dec 2012 S&P Wave Chart) and Fig 11.12 (Dec 2012 ](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p211_i1.png)
+![Fig 11.15: Union Pacific 10-cent Renko Chart with wave volum](../../graphify-out/images/trading/trades-about-to-happen-2013/trades-about-to-happen-2013_p213_i0.png)

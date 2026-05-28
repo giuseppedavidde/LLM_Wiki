@@ -1,7 +1,7 @@
 # Bar Chart Reading — Price, Range, Close, and Volume
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021; Anna Coulling, 2013
-> Raw: [Trades About to Happen](../../raw/trading/2026-05-20-trades-about-to-happen.md); [Wyckoff 2.0 Structures](../../raw/trading/2026-05-20-wyckoff-2-structures.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/2026-05-20-volume-price-analysis.md)
+> Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
 
 ## Overview
 
@@ -219,3 +219,22 @@ These candles provide the entry signals in Coulling's VPA system, similar to how
 - [Point-and-Figure and Renko](point-figure-renko.md)
 - [Volume Price Analysis (VPA)](volume-price-analysis-vpa.md)
 - [Volume at Price (VAP)](volume-at-price-vap.md)
+## 🔗 Graph Connections
+
+| Concept | Relation | Source |
+|---|---|---|
+| Bullish Engulfing | Part Of | EXTRACTED |
+| Candlestick Chart | Formed On | EXTRACTED |
+| Candlestick Patterns (50) | Formed On | EXTRACTED |
+| Doji / Doji Stars | Part Of | EXTRACTED |
+| Hammer | Part Of | EXTRACTED |
+| Heikin-Ashi Chart | Derived From | EXTRACTED |
+| Renko Chart | Alternative To | EXTRACTED |
+| Technical Analysis | Uses | EXTRACTED |
+| Volume Price Analysis (VPA) | Teaches | EXTRACTED |
+
+### Related Images
+![Shooting star candles with volume analysis - bearish reversa](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p134_i0.png)
+![Typical price action with shooting star candles showing mino](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p136_i0.png)
+![Wide spread candle showing strong market sentiment in one di](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p150_i0.png)
+![Hanging man candle pattern - sign of weakness in a bullish t](../../graphify-out/images/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then/a-complete-guide-to-volume-price-analysis-read-the-book-then_p154_i0.png)
