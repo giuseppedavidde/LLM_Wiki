@@ -18,4 +18,5 @@ Trading_Wiki/images_not_mentioned/
 
 # Raw and graphify output directories
 raw/
+Trading_Wiki/raw/
 graphify-out/
