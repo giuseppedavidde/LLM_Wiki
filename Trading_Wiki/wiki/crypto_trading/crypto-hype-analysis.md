@@ -118,7 +118,7 @@ This layered approach captures the upside of hype-driven moves while using TA di
 - [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md)
 ## 🔗 Graph Connections
 
-| Concept | Relation | Source |
-|---|---|---|
+| Concept            | Relation       | Source    |
+| ------------------ | -------------- | --------- |
 | Technical Analysis | Contrasts With | EXTRACTED |
-| Trading Psychology | Influenced By | EXTRACTED |
+| Trading Psychology | Influenced By  | EXTRACTED |
