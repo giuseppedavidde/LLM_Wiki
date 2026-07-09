@@ -1,4 +1,10 @@
-# Upthrusts
+---
+title: "Upthrusts"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/a-complete-guide-to-volume-price-analysis]]", "[[sources/trades-about-to-happen]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
@@ -138,7 +144,7 @@ Professional selling at a top is often obscured under cover of public buying. Pr
 
 ## See Also
 
-- [Wyckoff 2 Framework](wyckoff-2-framework.md)
+- [[wyckoff-2-framework|Wyckoff 2 Framework]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

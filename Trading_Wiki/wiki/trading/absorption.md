@@ -1,4 +1,10 @@
-# Absorption
+---
+title: "Absorption"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trades-about-to-happen]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/a-complete-guide-to-volume-price-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
@@ -131,7 +137,7 @@ These Order Flow patterns provide the micro-structure confirmation of absorption
 
 ## See Also
 
-- [Trading Ranges Support Resistance](trading-ranges-support-resistance.md)
+- [[trading-ranges-support-resistance|Trading Ranges Support Resistance]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

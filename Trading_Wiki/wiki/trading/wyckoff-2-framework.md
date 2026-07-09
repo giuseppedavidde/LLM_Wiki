@@ -1,4 +1,10 @@
-# Wyckoff 2.0 Framework
+---
+title: "Wyckoff 2.0 Framework"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trading-against-the-crowd]]", "[[sources/trades-about-to-happen]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/volume-profile]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Rubén Villahermosa Chaves, 2021; David Weis, 2013
 > Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
@@ -130,15 +136,15 @@ The market must be given *flexibility* in the development of structures. The Wyc
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Auction Market Theory](auction-market-theory.md)
-- [Volume Profile](volume-profile.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Absorption](absorption.md)
-- [Tape Reading and Weis Wave](tape-reading-wis-wave.md)
-- [Contrarian Sentiment Analysis](contrarian-sentiment-analysis.md) — crowd sentiment indicators for timing context shifts
+- [[wyckoff-method-overview|Wyckoff Method Overview]]
+- [[auction-market-theory|Auction Market Theory]]
+- [[volume-profile|Volume Profile]]
+- [[order-flow-footprint|Order Flow and Footprint]]
+- [[springs|Springs]]
+- [[upthrusts|Upthrusts]]
+- [[absorption|Absorption]]
+- [[tape-reading-wis-wave|Tape Reading and Weis Wave]]
+- [[contrarian-sentiment-analysis|Contrarian Sentiment Analysis]] — crowd sentiment indicators for timing context shifts
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

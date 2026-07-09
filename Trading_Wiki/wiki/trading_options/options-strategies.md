@@ -1,4 +1,10 @@
-# Options Strategies
+---
+title: "Options Strategies"
+type: concept
+tags: [options, greeks, volatility, crypto, scalping, contrarian, sentiment]
+sources: ["[[sources/volume-profile]]", "[[sources/options-trading-crash-course]]", "[[sources/the-options-playbook]]", "[[sources/the-options-course-workbook]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Brian Overby, The Options Playbook; George Fontanills, The Options Course Workbook; Unknown Author, Options Crash Course
 > Raw: [Options Playbook](../../raw/options/the-options-playbook-expanded-2nd-edition-featuring-40-strategies-for-bulls-bear.md); [Options Course Workbook](../../raw/options/the-options-course-workbook-step-by-step-exercises-and-tests-to-help-you-master-.md); [Options Crash Course](../../raw/options/options-trading-crash-course-advanced-guide-to-make-money-with-options-trading-i.md)
@@ -494,10 +500,10 @@ Note: Greeks are approximate at initiation. They change dynamically as the under
 
 ## See Also
 
-- [Options Fundamentals](options-fundamentals.md)
-- [Options Greeks](options-greeks.md)
-- [Options Volatility](options-volatility.md)
-- [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md)
+- [[options-fundamentals|Options Fundamentals]]
+- [[options-greeks|Options Greeks]]
+- [[options-volatility|Options Volatility]]
+- [[contrarian-sentiment-analysis|Contrarian Sentiment Analysis]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

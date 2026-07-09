@@ -1,4 +1,10 @@
-# Springs
+---
+title: "Springs"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trades-about-to-happen]]", "[[sources/volume-profile]]", "[[sources/options-trading-crash-course]]", "[[sources/a-complete-guide-to-volume-price-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
@@ -154,8 +160,8 @@ The spring should also be evaluated with Volume Profile:
 
 ## See Also
 
-- [Trading Ranges Support Resistance](trading-ranges-support-resistance.md)
-- [Wyckoff 2 Framework](wyckoff-2-framework.md)
+- [[trading-ranges-support-resistance|Trading Ranges Support Resistance]]
+- [[wyckoff-2-framework|Wyckoff 2 Framework]]
 
 ## 🔗 Graph Connections
 

@@ -1,4 +1,10 @@
-# Crypto Hype Analysis
+---
+title: "Crypto Hype Analysis"
+type: concept
+tags: [crypto, blockchain, technical-analysis, order-flow, footprint, contrarian, sentiment]
+sources: ["[[sources/trading-against-the-crowd]]", "[[sources/volume-profile]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Alan John & Jon Law, 2021
 > Raw: [Crypto Technical Analysis](../../raw/crypto/crypto-technical-analysis-your-one-stop-guide-to-investing-trading-and-profiting.md)
@@ -109,13 +115,13 @@ This layered approach captures the upside of hype-driven moves while using TA di
 
 ## See Also
 
-- [Crypto Technical Analysis](crypto-technical-analysis.md)
-- [Crypto Fundamental Analysis](crypto-fundamental-analysis.md)
-- [Blockchain Technology](blockchain-technology.md)
-- [Cryptocurrency Fundamentals](crypto-fundamentals.md)
-- [Volume Profile](../trading/volume-profile.md)
-- [Order Flow and Footprint](../trading/order-flow-footprint.md)
-- [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md)
+- [[crypto-technical-analysis|Crypto Technical Analysis]]
+- [[crypto-fundamental-analysis|Crypto Fundamental Analysis]]
+- [[blockchain-technology|Blockchain Technology]]
+- [[crypto-fundamentals|Cryptocurrency Fundamentals]]
+- [[volume-profile|Volume Profile]]
+- [[order-flow-footprint|Order Flow and Footprint]]
+- [[contrarian-sentiment-analysis|Contrarian Sentiment Analysis]]
 ## 🔗 Graph Connections
 
 | Concept            | Relation       | Source    |

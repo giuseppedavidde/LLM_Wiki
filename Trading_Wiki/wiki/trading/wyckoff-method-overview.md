@@ -1,4 +1,10 @@
-# Wyckoff Method — Modern Adaptation
+---
+title: "Wyckoff Method — Modern Adaptation"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trades-about-to-happen]]", "[[sources/volume-profile]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/a-complete-guide-to-volume-price-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021; Anna Coulling, 2013
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
@@ -472,7 +478,7 @@ Coulling's VPA is particularly effective for traders who want a volume-based app
 
 ## See Also
 
-- [Volume Price Analysis Vpa](volume-price-analysis-vpa.md)
+- [[volume-price-analysis-vpa|Volume Price Analysis Vpa]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

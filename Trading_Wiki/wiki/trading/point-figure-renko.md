@@ -1,4 +1,10 @@
-# Point-and-Figure and Renko Charts
+---
+title: "Point-and-Figure and Renko Charts"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/trades-about-to-happen]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
@@ -99,7 +105,7 @@ P&F projections complement the Weis Wave analysis. The "preparation" visible on 
 
 ## See Also
 
-- [Bar Chart Reading](bar-chart-reading.md)
+- [[bar-chart-reading|Bar Chart Reading]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

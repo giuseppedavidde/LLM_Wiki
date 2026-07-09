@@ -1,4 +1,10 @@
-# Contrarian Sentiment Analysis
+---
+title: "Contrarian Sentiment Analysis"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/trading-against-the-crowd]]", "[[sources/volume-profile]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: John F. Summa, Unknown
 > Raw: [Trading Against the Crowd](../../raw/trading/trading-against-the-crowd-profiting-from-fear-and-greed-in-stock-futures-and-opt.md)
@@ -128,13 +134,13 @@ Combined with quantitative sentiment indicators, media sentiment provides a qual
 
 ## See Also
 
-- [Market Ecosystem and Participants](market-ecosystem-participants.md)
-- [Auction Market Theory](auction-market-theory.md)
-- [Volume Profile](volume-profile.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
-- [Absorption](absorption.md)
-- [Crypto Hype Analysis](../crypto_trading/crypto-hype-analysis.md) — hype/sentiment analysis for cryptocurrency markets
-- [Options Volatility](../trading_options/options-volatility.md) — implied volatility, VIX, volatility skew for options
+- [[market-ecosystem-participants|Market Ecosystem and Participants]]
+- [[auction-market-theory|Auction Market Theory]]
+- [[volume-profile|Volume Profile]]
+- [[order-flow-footprint|Order Flow and Footprint]]
+- [[absorption|Absorption]]
+- [[crypto-hype-analysis|Crypto Hype Analysis]] — hype/sentiment analysis for cryptocurrency markets
+- [[options-volatility|Options Volatility]] — implied volatility, VIX, volatility skew for options
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

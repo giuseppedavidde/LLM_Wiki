@@ -1,4 +1,10 @@
-# Bar Chart Reading — Price, Range, Close, and Volume
+---
+title: "Bar Chart Reading — Price, Range, Close, and Volume"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trades-about-to-happen]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/a-complete-guide-to-volume-price-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021; Anna Coulling, 2013
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
@@ -211,14 +217,14 @@ These candles provide the entry signals in Coulling's VPA system, similar to how
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Volume Profile](volume-profile.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Absorption](absorption.md)
-- [Point-and-Figure and Renko](point-figure-renko.md)
-- [Volume Price Analysis (VPA)](volume-price-analysis-vpa.md)
-- [Volume at Price (VAP)](volume-at-price-vap.md)
+- [[wyckoff-method-overview|Wyckoff Method Overview]]
+- [[volume-profile|Volume Profile]]
+- [[springs|Springs]]
+- [[upthrusts|Upthrusts]]
+- [[absorption|Absorption]]
+- [[point-figure-renko|Point-and-Figure and Renko]]
+- [[volume-price-analysis-vpa|Volume Price Analysis (VPA)]]
+- [[volume-at-price-vap|Volume at Price (VAP)]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

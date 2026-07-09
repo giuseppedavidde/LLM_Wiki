@@ -1,4 +1,10 @@
-# Institutional Price Action
+---
+title: "Institutional Price Action"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/options-trading-crash-course]]", "[[sources/understanding-price-action]]", "[[sources/volume-profile]]", "[[sources/crypto-technical-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Trader Dale, Unknown
 > Raw: [Volume Profile: The Insiders Guide](../../raw/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-library.md)
@@ -99,14 +105,14 @@ A breakout that immediately fails and reverses. In a failed auction, the market 
 
 ## See Also
 
-- [Volume Profile](volume-profile.md)
-- [Trading Ranges and Lines](trading-ranges-support-resistance.md)
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Absorption](absorption.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Market Ecosystem and Participants](market-ecosystem-participants.md)
-- [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — scalping price action on the 5-minute frame
+- [[volume-profile|Volume Profile]]
+- [[trading-ranges-support-resistance|Trading Ranges and Lines]]
+- [[wyckoff-method-overview|Wyckoff Method Overview]]
+- [[absorption|Absorption]]
+- [[springs|Springs]]
+- [[upthrusts|Upthrusts]]
+- [[market-ecosystem-participants|Market Ecosystem and Participants]]
+- [[volman-price-action-principles|Volman Price Action Principles]] — scalping price action on the 5-minute frame
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

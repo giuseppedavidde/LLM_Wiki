@@ -1,4 +1,10 @@
-# Options Greeks
+---
+title: "Options Greeks"
+type: concept
+tags: [options, greeks, volatility, crypto, scalping, contrarian, sentiment]
+sources: ["[[sources/understanding-price-action]]", "[[sources/volume-profile]]", "[[sources/the-options-playbook]]", "[[sources/the-options-course-workbook]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Brian Overby, The Options Playbook; George Fontanills, The Options Course Workbook
 > Raw: [Options Playbook](../../raw/options/the-options-playbook-expanded-2nd-edition-featuring-40-strategies-for-bulls-bear.md); [Options Course Workbook](../../raw/options/the-options-course-workbook-step-by-step-exercises-and-tests-to-help-you-master-.md)
@@ -93,12 +99,12 @@ Changes in these inputs produce changes in the Greeks, which together determine 
 
 ## See Also
 
-- [Options Fundamentals](options-fundamentals.md) — contract specs, moneyness, intrinsic vs time value
-- [Options Volatility](options-volatility.md) — implied volatility, volatility skew, VIX
-- [Options Strategies](options-strategies.md) — applying Greeks to strategy selection
-- [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md) — put/call ratios, VIX sentiment
-- [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — price action for options entries
-- [Crypto Hype Analysis](../crypto_trading/crypto-hype-analysis.md) — sentiment analysis parallels
+- [[options-fundamentals|Options Fundamentals]] — contract specs, moneyness, intrinsic vs time value
+- [[options-volatility|Options Volatility]] — implied volatility, volatility skew, VIX
+- [[options-strategies|Options Strategies]] — applying Greeks to strategy selection
+- [[contrarian-sentiment-analysis|Contrarian Sentiment Analysis]] — put/call ratios, VIX sentiment
+- [[volman-price-action-principles|Volman Price Action Principles]] — price action for options entries
+- [[crypto-hype-analysis|Crypto Hype Analysis]] — sentiment analysis parallels
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

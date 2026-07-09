@@ -1,4 +1,10 @@
-# Volume Price Analysis (VPA)
+---
+title: "Volume Price Analysis (VPA)"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/trading-against-the-crowd]]", "[[sources/volume-profile]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/a-complete-guide-to-volume-price-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Anna Coulling, 2013
 > Raw: [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
@@ -200,12 +206,12 @@ The daily routine of a VPA trader:
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Bar Chart Reading](bar-chart-reading.md)
-- [Absorption](absorption.md)
-- [Volume at Price (VAP)](volume-at-price-vap.md)
-- [Volume Profile](volume-profile.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
+- [[wyckoff-method-overview|Wyckoff Method Overview]]
+- [[bar-chart-reading|Bar Chart Reading]]
+- [[absorption|Absorption]]
+- [[volume-at-price-vap|Volume at Price (VAP)]]
+- [[volume-profile|Volume Profile]]
+- [[order-flow-footprint|Order Flow and Footprint]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

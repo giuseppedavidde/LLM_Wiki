@@ -1,4 +1,10 @@
-# Market Ecosystem and Participants
+---
+title: "Market Ecosystem and Participants"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trading-against-the-crowd]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/volume-profile]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Rubén Villahermosa Chaves, 2021
 > Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
@@ -76,12 +82,12 @@ The Wyckoff methodology operates on the premise that markets are **deterministic
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Auction Market Theory](auction-market-theory.md)
-- [Wyckoff 2.0 Framework](wyckoff-2-framework.md)
-- [Contrarian Sentiment Analysis](contrarian-sentiment-analysis.md) — measuring crowd sentiment in modern markets
-- [Cryptocurrency Fundamentals](../crypto_trading/crypto-fundamentals.md) — crypto market structure and participants
-- [Options Fundamentals](../trading_options/options-fundamentals.md) — options contract specifications and market mechanics
+- [[wyckoff-method-overview|Wyckoff Method Overview]]
+- [[auction-market-theory|Auction Market Theory]]
+- [[wyckoff-2-framework|Wyckoff 2.0 Framework]]
+- [[contrarian-sentiment-analysis|Contrarian Sentiment Analysis]] — measuring crowd sentiment in modern markets
+- [[crypto-fundamentals|Cryptocurrency Fundamentals]] — crypto market structure and participants
+- [[options-fundamentals|Options Fundamentals]] — options contract specifications and market mechanics
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

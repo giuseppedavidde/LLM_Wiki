@@ -1,4 +1,10 @@
-# Volume at Price (VAP)
+---
+title: "Volume at Price (VAP)"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/a-complete-guide-to-volume-price-analysis]]", "[[sources/options-trading-crash-course]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Anna Coulling, 2013
 > Raw: [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
@@ -73,11 +79,11 @@ VAP is useful for quick visual assessment of individual bars. Volume Profile pro
 
 ## See Also
 
-- [Volume Price Analysis (VPA)](volume-price-analysis-vpa.md)
-- [Volume Profile](volume-profile.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
-- [Auction Market Theory](auction-market-theory.md)
-- [Trading Ranges and Lines](trading-ranges-support-resistance.md)
+- [[volume-price-analysis-vpa|Volume Price Analysis (VPA)]]
+- [[volume-profile|Volume Profile]]
+- [[order-flow-footprint|Order Flow and Footprint]]
+- [[auction-market-theory|Auction Market Theory]]
+- [[trading-ranges-support-resistance|Trading Ranges and Lines]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

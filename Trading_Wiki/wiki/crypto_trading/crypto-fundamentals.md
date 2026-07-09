@@ -1,4 +1,10 @@
-# Cryptocurrency Fundamentals
+---
+title: "Cryptocurrency Fundamentals"
+type: concept
+tags: [crypto, blockchain, technical-analysis, order-flow, footprint, contrarian, sentiment]
+sources: ["[[sources/trading-against-the-crowd]]", "[[sources/the-crypto-crash-course]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/volume-profile]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Frank Richmond, 2018
 > Raw: [Crypto Crash Course](../../raw/crypto/the-crypto-crash-course-the-ultimate-cryptocurrency-guide-for-beginners-a-thorou.md)
@@ -184,11 +190,11 @@ ICOs carry extreme risk: an estimated 96% of ICO projects fail. Approach with ca
 
 ## See Also
 
-- [Blockchain Technology](blockchain-technology.md)
-- [Crypto Technical Analysis](crypto-technical-analysis.md)
-- [Crypto Hype Analysis](crypto-hype-analysis.md)
-- [Market Ecosystem and Participants](../trading/market-ecosystem-participants.md)
-- [Crypto Fundamental Analysis](crypto-fundamental-analysis.md)
+- [[blockchain-technology|Blockchain Technology]]
+- [[crypto-technical-analysis|Crypto Technical Analysis]]
+- [[crypto-hype-analysis|Crypto Hype Analysis]]
+- [[market-ecosystem-participants|Market Ecosystem and Participants]]
+- [[crypto-fundamental-analysis|Crypto Fundamental Analysis]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

@@ -1,4 +1,10 @@
-# Trading Ranges, Support, and Resistance Lines
+---
+title: "Trading Ranges, Support, and Resistance Lines"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/trades-about-to-happen]]", "[[sources/options-trading-crash-course]]", "[[sources/volume-profile]]", "[[sources/crypto-technical-analysis]]", "[[sources/a-complete-guide-to-volume-price-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013; Anna Coulling, 2013
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [A Complete Guide To Volume Price Analysis](../../raw/trading/a-complete-guide-to-volume-price-analysis-read-the-book-then-read-the-market-ann.md)
@@ -236,12 +242,12 @@ Brief counter-trend congestion after a sharp move. Volume should contract during
 
 ## See Also
 
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Bar Chart Reading](bar-chart-reading.md)
-- [Springs](springs.md)
-- [Upthrusts](upthrusts.md)
-- [Volume Price Analysis (VPA)](volume-price-analysis-vpa.md)
-- [Volume at Price (VAP)](volume-at-price-vap.md)
+- [[wyckoff-method-overview|Wyckoff Method Overview]]
+- [[bar-chart-reading|Bar Chart Reading]]
+- [[springs|Springs]]
+- [[upthrusts|Upthrusts]]
+- [[volume-price-analysis-vpa|Volume Price Analysis (VPA)]]
+- [[volume-at-price-vap|Volume at Price (VAP)]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

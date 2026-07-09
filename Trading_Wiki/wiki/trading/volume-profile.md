@@ -1,4 +1,10 @@
-# Volume Profile
+---
+title: "Volume Profile"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trading-against-the-crowd]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/volume-profile]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Rubén Villahermosa Chaves, 2021; Trader Dale, Unknown
 > Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [Volume Profile: The Insiders Guide](../../raw/trading/volume-profile-the-insiders-guide-to-trading-trader-dale-z-library.md)
@@ -201,7 +207,7 @@ A special case of the rejection setup where price breaks a key level then immedi
 
 ## See Also
 
-- [Volume Price Analysis Vpa](volume-price-analysis-vpa.md)
+- [[volume-price-analysis-vpa|Volume Price Analysis Vpa]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

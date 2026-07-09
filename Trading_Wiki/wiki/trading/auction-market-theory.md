@@ -1,4 +1,10 @@
-# Auction Market Theory
+---
+title: "Auction Market Theory"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/trades-about-to-happen]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]", "[[sources/understanding-price-action]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Rubén Villahermosa Chaves, 2021; David Weis, 2013
 > Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md); [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md)
@@ -100,12 +106,12 @@ The true engine of financial markets. Regardless of participant type or intent, 
 
 ## See Also
 
-- [Volume Profile](volume-profile.md)
-- [Order Flow and Footprint](order-flow-footprint.md)
-- [Wyckoff 2.0 Framework](wyckoff-2-framework.md)
-- [Absorption](absorption.md)
-- [Wyckoff Method Overview](wyckoff-method-overview.md)
-- [Volman Price Action Principles](../scalping_trading/volman-price-action-principles.md) — seven core price action principles applied to 5-min scalping
+- [[volume-profile|Volume Profile]]
+- [[order-flow-footprint|Order Flow and Footprint]]
+- [[wyckoff-2-framework|Wyckoff 2.0 Framework]]
+- [[absorption|Absorption]]
+- [[wyckoff-method-overview|Wyckoff Method Overview]]
+- [[volman-price-action-principles|Volman Price Action Principles]] — seven core price action principles applied to 5-min scalping
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

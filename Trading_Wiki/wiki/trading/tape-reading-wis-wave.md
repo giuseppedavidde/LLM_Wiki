@@ -1,4 +1,10 @@
-# Tape Reading and the Weis Wave
+---
+title: "Tape Reading and the Weis Wave"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/options-trading-crash-course]]", "[[sources/trades-about-to-happen]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: David Weis, 2013; Rubén Villahermosa Chaves, 2021
 > Raw: [Trades About to Happen](../../raw/trading/trades-about-to-happen-2013.md); [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
@@ -100,7 +106,7 @@ In the Wyckoff 2.0 framework, the Weis Wave and Order Flow complement each other
 
 ## See Also
 
-- [Point Figure Renko](point-figure-renko.md)
+- [[point-figure-renko|Point Figure Renko]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

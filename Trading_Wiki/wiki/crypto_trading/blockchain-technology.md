@@ -1,4 +1,10 @@
-# Blockchain Technology
+---
+title: "Blockchain Technology"
+type: concept
+tags: [crypto, blockchain, technical-analysis, order-flow, footprint, contrarian, sentiment]
+sources: ["[[sources/trading-against-the-crowd]]", "[[sources/crypto-technical-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Alan John & Jon Law, 2021
 > Raw: [Crypto Technical Analysis](../../raw/crypto/crypto-technical-analysis-your-one-stop-guide-to-investing-trading-and-profiting.md)
@@ -103,13 +109,13 @@ The identity of Satoshi Nakamoto — the individual or group who created Bitcoin
 
 ## See Also
 
-- [Crypto Technical Analysis](crypto-technical-analysis.md)
-- [Crypto Fundamental Analysis](crypto-fundamental-analysis.md)
-- [Crypto Hype Analysis](crypto-hype-analysis.md)
-- [Cryptocurrency Fundamentals](crypto-fundamentals.md)
-- [Volume Profile](../trading/volume-profile.md)
-- [Order Flow and Footprint](../trading/order-flow-footprint.md)
-- [Contrarian Sentiment Analysis](../trading/contrarian-sentiment-analysis.md)
+- [[crypto-technical-analysis|Crypto Technical Analysis]]
+- [[crypto-fundamental-analysis|Crypto Fundamental Analysis]]
+- [[crypto-hype-analysis|Crypto Hype Analysis]]
+- [[crypto-fundamentals|Cryptocurrency Fundamentals]]
+- [[volume-profile|Volume Profile]]
+- [[order-flow-footprint|Order Flow and Footprint]]
+- [[contrarian-sentiment-analysis|Contrarian Sentiment Analysis]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

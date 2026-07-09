@@ -1,0 +1,6 @@
+# Override parent .gitignore to include raw PDF sources
+!*.pdf
+!raw/
+!raw/**/*.pdf
+# Exclude wiki images to keep graph focused
+wiki/

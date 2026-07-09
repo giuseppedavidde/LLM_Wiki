@@ -1,5 +1,11 @@
-# Wiki Log
+<!-- llm-wiki-log-header-start -->
+# Wiki Operation Log
 
+Every ingest, lint run, and maintenance operation is recorded here automatically. For a better experience, use the **Operation History** panel:
+- Cmd+P → "View operation history"
+- Or open from Settings → Auto Maintenance → Operation History
+
+---
 ## [2026-05-20] ingest | Wyckoff Method Overview
 - Updated: Trading Ranges and Lines
 - Updated: Bar Chart Reading
@@ -144,3 +150,20 @@
 ## [2026-05-27] lint | 73 issues found, 57 auto-fixed
 ## [2026-05-27] lint | Heuristic: 16 orphan pages resolved (See Also links added)
   - 9 See Also sections added/updated across trading/, scalping_trading/, crypto_trading/, trading_options/
+
+## [2026-07-09] lint-upgrade | Post-skill update health check
+- Created 8 missing directories: sources/, entities/, concepts/, overviews/, contradictions/, syntheses/, timelines/, trails/
+- Created overview.md (living synthesis)
+- Added frontmatter (title, type, tags, sources, last_updated) to all 30 articles
+- Converted 151 markdown links to [[wikilinks]] in See Also sections
+- Verified 0 broken wikilinks across all articles
+- Note: contradictions/, trails/, syntheses/ are empty — content needs LLM generation
+
+## [2026-07-09] ingest-batch | Full wiki population
+- Created 12 source summaries in sources/ (one per book)
+- Created 33 entity files in entities/ (people, institutions, market terms)
+- Created 10 cross-cutting concepts in concepts/
+- Created 7 contradiction analyses in contradictions/
+- Created 3 associative trails in trails/ (Wyckoff→Options, Volume Journey, Scalping vs Patience)
+- Created 2 syntheses in syntheses/ (Beginner Approach, Valid Breakout definition)
+- All files use [[wikilinks]], YAML frontmatter, and cross-reference existing articles

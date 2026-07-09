@@ -1,4 +1,10 @@
-# Volman Manual Exits
+---
+title: "Volman Manual Exits"
+type: concept
+tags: [scalping, price-action, day-trading, institutional]
+sources: ["[[sources/trading-against-the-crowd]]", "[[sources/understanding-price-action]]", "[[sources/volume-profile]]", "[[sources/options-trading-crash-course]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Bob Volman, 2014
 > Raw: [Understanding Price Action](../../raw/scalping-trading/understanding-price-action-practical-analysis-of-the-5-minute-time-frame-bob-vol.md)
@@ -56,11 +62,11 @@ The reversal exit is usually deployed with minimal damage or even a small profit
 
 ## See Also
 
-- [Volman Price Action Principles](volman-price-action-principles.md)
-- [Volman Pattern Break Setups](volman-pattern-break-setups.md)
-- [Scalping Low Volatility](scalping-low-volatility.md)
-- [Price Action Institutional](../trading/price-action-institutional.md)
-- [Tape Reading Wis Wave](../trading/tape-reading-wis-wave.md)
+- [[volman-price-action-principles|Volman Price Action Principles]]
+- [[volman-pattern-break-setups|Volman Pattern Break Setups]]
+- [[scalping-low-volatility|Scalping Low Volatility]]
+- [[price-action-institutional|Price Action Institutional]]
+- [[tape-reading-wis-wave|Tape Reading Wis Wave]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

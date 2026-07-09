@@ -1,4 +1,10 @@
-# Order Flow and Footprint Analysis
+---
+title: "Order Flow and Footprint Analysis"
+type: concept
+tags: [wyckoff, volume, price-action, technical-analysis, order-flow, spring, upthrust, footprint]
+sources: ["[[sources/wyckoff-2-0]]", "[[sources/options-trading-crash-course]]", "[[sources/crypto-technical-analysis]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Rubén Villahermosa Chaves, 2021
 > Raw: [Wyckoff 2.0 Structures](../../raw/trading/wyckoff-2-0-structures-volume-profile-and-order-flow-combining-the-logic-of-the-.md)
@@ -87,7 +93,7 @@ Order flow patterns appear across all timeframes. A turning pattern on a 1-minut
 
 ## See Also
 
-- [Springs](springs.md)
+- [[springs|Springs]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |

@@ -1,4 +1,10 @@
-# Volman Pattern Break Setups
+---
+title: "Volman Pattern Break Setups"
+type: concept
+tags: [scalping, price-action, day-trading, institutional, order-flow, footprint]
+sources: ["[[sources/understanding-price-action]]", "[[sources/volume-profile]]"]
+last_updated: 2026-07-09
+---
 
 > Sources: Bob Volman, 2014
 > Raw: [Understanding Price Action](../../raw/scalping-trading/understanding-price-action-practical-analysis-of-the-5-minute-time-frame-bob-vol.md)
@@ -74,12 +80,12 @@ For corrections in time (flags), treat the reversal as a regular pattern break s
 
 ## See Also
 
-- [Volman Price Action Principles](volman-price-action-principles.md)
-- [Volman Manual Exits](volman-manual-exits.md)
-- [Scalping Low Volatility](scalping-low-volatility.md)
-- [Price Action Institutional](../trading/price-action-institutional.md)
-- [Order Flow Footprint](../trading/order-flow-footprint.md)
-- [Volume Profile](../trading/volume-profile.md)
+- [[volman-price-action-principles|Volman Price Action Principles]]
+- [[volman-manual-exits|Volman Manual Exits]]
+- [[scalping-low-volatility|Scalping Low Volatility]]
+- [[price-action-institutional|Price Action Institutional]]
+- [[order-flow-footprint|Order Flow Footprint]]
+- [[volume-profile|Volume Profile]]
 ## 🔗 Graph Connections
 
 | Concept | Relation | Source |
