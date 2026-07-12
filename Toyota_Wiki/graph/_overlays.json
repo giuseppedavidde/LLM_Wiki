@@ -1,0 +1,24 @@
+{
+  "overlays": [
+    {
+      "type": "synthesis",
+      "slug": "YarisCrossWarrantyStatus",
+      "title": "Yaris Cross JTDKBABB30A139217 — Stato Garanzia",
+      "flavor": "region",
+      "members": [
+        {
+          "id": "entities/CariniSrl.md"
+        }
+      ]
+    }
+  ],
+  "node_overlays": {
+    "entities/CariniSrl.md": [
+      {
+        "type": "synthesis",
+        "slug": "YarisCrossWarrantyStatus",
+        "title": "Yaris Cross JTDKBABB30A139217 — Stato Garanzia"
+      }
+    ]
+  }
+}

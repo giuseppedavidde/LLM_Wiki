@@ -1,0 +1,179 @@
+{
+  "nodes": [
+    {
+      "id": "concepts/ToyotaBatteryCare.md",
+      "label": "Toyota & Lexus Battery Care",
+      "type": "concept"
+    },
+    {
+      "id": "concepts/ToyotaRelaxGarantieAT.md",
+      "label": "Toyota Relax Garantie (Österreich)",
+      "type": "concept"
+    },
+    {
+      "id": "concepts/ToyotaRelaxPlus.md",
+      "label": "Toyota Relax Plus (Italia)",
+      "type": "concept"
+    },
+    {
+      "id": "entities/CariniSrl.md",
+      "label": "Carini srl",
+      "type": "entity"
+    },
+    {
+      "id": "entities/ToyotaAustriaGmbH.md",
+      "label": "Toyota Austria GmbH",
+      "type": "entity"
+    },
+    {
+      "id": "entities/ToyotaMotorItalia.md",
+      "label": "Toyota Motor Italia S.p.A.",
+      "type": "entity"
+    },
+    {
+      "id": "sources/TagliandoPrezziChiari.md",
+      "label": "Tagliando Prezzi Chiari — Yaris Cross 1.5 Hybrid",
+      "type": "source"
+    },
+    {
+      "id": "sources/TerminiBatteryCareItalia.md",
+      "label": "Termini e Condizioni Toyota & Lexus Battery Care",
+      "type": "source"
+    },
+    {
+      "id": "sources/ToyotaRelaxGarantiebedingungenAT.md",
+      "label": "Toyota Relax Garantiebedingungen (Österreich)",
+      "type": "source"
+    },
+    {
+      "id": "sources/YarisCrossServiceHistory.md",
+      "label": "Service History Yaris Cross JTDKBABB30A139217",
+      "type": "source"
+    }
+  ],
+  "edges": [
+    {
+      "from": "concepts/ToyotaBatteryCare.md",
+      "to": "sources/TerminiBatteryCareItalia.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "concepts/ToyotaBatteryCare.md",
+      "to": "concepts/ToyotaBatteryCare.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "concepts/ToyotaBatteryCare.md",
+      "to": "concepts/ToyotaRelaxPlus.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "concepts/ToyotaRelaxGarantieAT.md",
+      "to": "entities/ToyotaAustriaGmbH.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "concepts/ToyotaRelaxGarantieAT.md",
+      "to": "sources/ToyotaRelaxGarantiebedingungenAT.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "concepts/ToyotaRelaxGarantieAT.md",
+      "to": "concepts/ToyotaRelaxPlus.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "concepts/ToyotaRelaxPlus.md",
+      "to": "entities/ToyotaMotorItalia.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "concepts/ToyotaRelaxPlus.md",
+      "to": "concepts/ToyotaBatteryCare.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "entities/CariniSrl.md",
+      "to": "sources/YarisCrossServiceHistory.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    },
+    {
+      "from": "entities/ToyotaAustriaGmbH.md",
+      "to": "concepts/ToyotaRelaxGarantieAT.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Anschlussgarantie bis 10 Jahre/160.000 km"
+    },
+    {
+      "from": "entities/ToyotaMotorItalia.md",
+      "to": "concepts/ToyotaRelaxPlus.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Garanzia post-tagliando fino a 15 anni/250.000 km"
+    },
+    {
+      "from": "entities/ToyotaMotorItalia.md",
+      "to": "concepts/ToyotaBatteryCare.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Copertura batteria di trazione (€120/anno o gratis con cronologia tagliandi)"
+    },
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "to": "concepts/ToyotaRelaxPlus.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "La Relax Plus si attiva dopo ogni tagliando in rete Toyota"
+    },
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "to": "concepts/ToyotaBatteryCare.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Il Battery Health Check è incluso nei prezzi sopra"
+    },
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "to": "entities/CariniSrl.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Concessionaria che ha eseguito i tagliandi"
+    },
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "to": "sources/YarisCrossServiceHistory.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Storico completo dei tagliandi effettuati"
+    },
+    {
+      "from": "sources/YarisCrossServiceHistory.md",
+      "to": "sources/YarisCrossServiceHistory.md",
+      "type": "EXTRACTED",
+      "relation": "references"
+    }
+  ],
+  "stats": {
+    "node_count": 10,
+    "edge_count": 17,
+    "extracted_edges": 17,
+    "inferred_edges": 0,
+    "relations": {
+      "references": 17
+    },
+    "types": {
+      "concept": 3,
+      "entity": 3,
+      "source": 4
+    }
+  }
+}

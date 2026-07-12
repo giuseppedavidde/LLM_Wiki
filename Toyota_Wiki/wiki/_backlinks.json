@@ -1,0 +1,80 @@
+{
+  "ToyotaRelaxPlus": [
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "title": "Tagliando Prezzi Chiari — Yaris Cross 1.5 Hybrid"
+    },
+    {
+      "from": "entities/ToyotaMotorItalia.md",
+      "title": "Toyota Motor Italia S.p.A."
+    },
+    {
+      "from": "concepts/ToyotaBatteryCare.md",
+      "title": "Toyota & Lexus Battery Care"
+    },
+    {
+      "from": "concepts/ToyotaRelaxGarantieAT.md",
+      "title": "Toyota Relax Garantie (Österreich)"
+    }
+  ],
+  "ToyotaBatteryCare": [
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "title": "Tagliando Prezzi Chiari — Yaris Cross 1.5 Hybrid"
+    },
+    {
+      "from": "entities/ToyotaMotorItalia.md",
+      "title": "Toyota Motor Italia S.p.A."
+    },
+    {
+      "from": "concepts/ToyotaRelaxPlus.md",
+      "title": "Toyota Relax Plus (Italia)"
+    }
+  ],
+  "CariniSrl": [
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "title": "Tagliando Prezzi Chiari — Yaris Cross 1.5 Hybrid"
+    }
+  ],
+  "YarisCrossServiceHistory": [
+    {
+      "from": "sources/TagliandoPrezziChiari.md",
+      "title": "Tagliando Prezzi Chiari — Yaris Cross 1.5 Hybrid"
+    },
+    {
+      "from": "entities/CariniSrl.md",
+      "title": "Carini srl"
+    }
+  ],
+  "ToyotaRelaxGarantieAT": [
+    {
+      "from": "entities/ToyotaAustriaGmbH.md",
+      "title": "Toyota Austria GmbH"
+    }
+  ],
+  "TerminiBatteryCareItalia": [
+    {
+      "from": "concepts/ToyotaBatteryCare.md",
+      "title": "Toyota & Lexus Battery Care"
+    }
+  ],
+  "ToyotaAustriaGmbH": [
+    {
+      "from": "concepts/ToyotaRelaxGarantieAT.md",
+      "title": "Toyota Relax Garantie (Österreich)"
+    }
+  ],
+  "ToyotaRelaxGarantiebedingungenAT": [
+    {
+      "from": "concepts/ToyotaRelaxGarantieAT.md",
+      "title": "Toyota Relax Garantie (Österreich)"
+    }
+  ],
+  "ToyotaMotorItalia": [
+    {
+      "from": "concepts/ToyotaRelaxPlus.md",
+      "title": "Toyota Relax Plus (Italia)"
+    }
+  ]
+}

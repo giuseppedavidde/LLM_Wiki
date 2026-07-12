@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "phase": "dependencies",
+    "note": "layer-cascade upstream index — page → {upstream pages it derives from, newest upstream date}. Consumed by tools/_lint/staleness.py (uniform staleness rule). Additive; no existing behavior changed.",
+    "page_count": 12
+  },
+  "pages": {
+    "sources/TagliandoPrezziChiari.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "sources/TerminiBatteryCareItalia.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "sources/ToyotaRelaxGarantiebedingungenAT.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "sources/YarisCrossServiceHistory.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "entities/CariniSrl.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "entities/ToyotaAustriaGmbH.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "entities/ToyotaMotorItalia.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "concepts/ToyotaBatteryCare.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "concepts/ToyotaRelaxGarantieAT.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "concepts/ToyotaRelaxPlus.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "syntheses/YarisCrossWarrantyStatus.md": {
+      "last_updated": "2026-07-12",
+      "upstream": [],
+      "upstream_max_date": null
+    },
+    "overview.md": {
+      "last_updated": null,
+      "upstream": [],
+      "upstream_max_date": null
+    }
+  }
+}

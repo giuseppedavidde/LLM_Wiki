@@ -1,0 +1,133 @@
+{
+  "method": "leiden",
+  "graph_fingerprint": "d15ba72e450588a4",
+  "resolution": 1.0,
+  "seed": 42,
+  "source_weight_threshold": 0.3,
+  "coherence_threshold": 0.25,
+  "hysteresis_threshold": 0.5,
+  "stats": {
+    "hub_nodes": 5,
+    "hub_edges": 5,
+    "isolated_hubs": 1,
+    "cluster_count": 2,
+    "mixed_clusters": 0,
+    "unlabeled_clusters": 2,
+    "hysteresis_carried": 0,
+    "sources_assigned": 1,
+    "sources_unassigned": 3
+  },
+  "clusters": [
+    {
+      "id": 0,
+      "slug": "toyota-italy",
+      "name": "toyota-italy",
+      "color": null,
+      "matched_label_slug": null,
+      "containment": null,
+      "anchor_hits": 0,
+      "match_method": null,
+      "hysteresis_jaccard": null,
+      "size": 3,
+      "members": [
+        "concepts/ToyotaBatteryCare.md",
+        "concepts/ToyotaRelaxPlus.md",
+        "entities/ToyotaMotorItalia.md"
+      ],
+      "member_labels": [
+        "Toyota & Lexus Battery Care",
+        "Toyota Relax Plus (Italia)",
+        "Toyota Motor Italia S.p.A."
+      ],
+      "top_tags": [
+        [
+          "toyota",
+          3
+        ],
+        [
+          "italy",
+          2
+        ],
+        [
+          "battery-care",
+          1
+        ],
+        [
+          "hybrid",
+          1
+        ],
+        [
+          "ev",
+          1
+        ]
+      ],
+      "coherence": "single"
+    },
+    {
+      "id": 1,
+      "slug": "toyota-austria",
+      "name": "toyota-austria",
+      "color": null,
+      "matched_label_slug": null,
+      "containment": null,
+      "anchor_hits": 0,
+      "match_method": null,
+      "hysteresis_jaccard": null,
+      "size": 2,
+      "members": [
+        "concepts/ToyotaRelaxGarantieAT.md",
+        "entities/ToyotaAustriaGmbH.md"
+      ],
+      "member_labels": [
+        "Toyota Relax Garantie (Österreich)",
+        "Toyota Austria GmbH"
+      ],
+      "top_tags": [
+        [
+          "toyota",
+          2
+        ],
+        [
+          "austria",
+          2
+        ],
+        [
+          "garantie",
+          1
+        ],
+        [
+          "relax",
+          1
+        ],
+        [
+          "extended-warranty",
+          1
+        ]
+      ],
+      "coherence": "single"
+    }
+  ],
+  "hub_assignments": {
+    "concepts/ToyotaBatteryCare.md": "toyota-italy",
+    "concepts/ToyotaRelaxPlus.md": "toyota-italy",
+    "entities/ToyotaMotorItalia.md": "toyota-italy",
+    "concepts/ToyotaRelaxGarantieAT.md": "toyota-austria",
+    "entities/ToyotaAustriaGmbH.md": "toyota-austria"
+  },
+  "source_assignments": {
+    "sources/TagliandoPrezziChiari.md": {
+      "primary": "toyota-italy",
+      "weights": {
+        "toyota-italy": 1.0
+      }
+    }
+  },
+  "isolated_hubs": [
+    "entities/CariniSrl.md"
+  ],
+  "unassigned_sources": [
+    "sources/TerminiBatteryCareItalia.md",
+    "sources/ToyotaRelaxGarantiebedingungenAT.md",
+    "sources/YarisCrossServiceHistory.md"
+  ]
+}
