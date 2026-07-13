@@ -2,8 +2,8 @@
 title: "Yaris Cross JTDKBABB30A139217 — Stato Garanzia"
 type: synthesis
 tags: [yaris-cross, warranty-status, synthesis, personal]
-sources: [raw/service_history/JTDKBABB30A139217_service_history_until_2026.pdf]
-last_updated: 2026-07-12
+sources: [raw/service_history/JTDKBABB30A139217_service_history_until_2026.pdf, EmailCariniGiuseppe]
+last_updated: 2026-07-13
 ---
 
 # Yaris Cross VIN JTDKBABB30A139217 — Stato Garanzia
@@ -18,49 +18,52 @@ last_updated: 2026-07-12
 | 11.10.2025 | **Service 45.000 km** + batteria 12V | 39.212 | [[CariniSrl|Carini Tavagnacco]] (IT) |
 | 10.07.2026 | **Service 60.000 km** | 54.250 | [[CariniSrl|Carini Pordenone]] (IT) |
 
-## Stato Garanzia Oggi (12.07.2026)
+## Esito email Carini (13.07.2026)
+
+Fonte: [[EmailCariniGiuseppe]]
+
+### ✅ Conferme positive
+| Copertura | Stato | Scadenza |
+|---|---|---|
+| **Relax Plus Italiana** | ✅ **ATTIVA** (confermato: tagliandi in IT → Relax IT) | 15 anni / 250.000 km |
+| **Garanzia ibrida** (batteria, inverter, centraline) | ✅ **ATTIVA** (confermato da Carini) | **14.12.2027** o 100.000 km |
+| **Tagliando 30.000 km** | ✅ **Correttamente registrato** nel sistema Carini | (non era un problema CWS) |
+
+### ❌ Criticità emerse
+| Problema | Dettaglio |
+|---|---|
+| **Battery Care a pagamento** | Carini: "Per la garanzia Toyota Battery Care estendersi gratuitamente, il primo tagliando doveva essere eseguito in Italia" → **€ 120/anno** |
+| **HHC non eseguito al 60.000 km** | Carini conferma: **"L'HHC non risulta essere stato eseguito"** a Pordenone |
+| **Concessionario AT chiuso** | Autohaus Kinzel ha chiuso nel 2024 — non possibile tornare da loro |
+
+### Dettaglio Battery Care
+- **Costo**: € 120/anno o ogni 15.000 km
+- **Motivo**: il primo tagliando (15.000 km) è stato fatto in Austria, non in Italia
+- **Inizio**: dalla scadenza della garanzia ibrida (14.12.2027)
+- **Alternativa**: contattare Toyota Austria per verificare se il Battery Care è gratuito nel regime AT
+
+### Dettaglio HHC non eseguito
+L'Hybrid Health Check (chiamato anche Battery Health Check) non è stato eseguito al tagliando dei 60.000 km a Pordenone. Questo significa:
+- Per il Battery Care futuro: potrebbe servire un HHC catch-up
+- Per la garanzia ibrida in corso: nessun impatto (è di fabbrica fino al 2027)
+- Da richiedere a Carini Pordenone di eseguirlo
+
+## Stato Garanzia Oggi (13.07.2026)
 
 ### Veicolo: 3 anni, 7 mesi — 54.250 km
 
-### 1. Garanzia Convenzionale (3 anni/100.000 km) — ⚠️ SCADUTA
-- Scaduta il 15.12.2025 (3 anni dall'immatricolazione)
-
-### 2. Garanzia Ibrida (5 anni/100.000 km) — ✅ ATTIVA
-- Copre batteria di trazione, inverter, centraline ibride
-- Scadrà il **15.12.2027** o 100.000 km
-
-### 3. Toyota Relax (AT) o Relax Plus (IT)? — ⚠️ TRANSIZIONE
-- Il veicolo è **originariamente austriaco** (garanzia Relax AT: 10 anni/160.000 km)
-- Tuttavia i tagliandi da 30.000 km in poi sono stati fatti in **Italia** ([[CariniSrl]])
-- La Relax italiana si applica ai veicoli **immessi sul mercato italiano** — questo veicolo è stato immatricolato in Austria
-- **Criticità**: verificare se il sistema CWS (Central Warranty System) Toyota ha registrato il cambio di paese
-
-### 4. Relax Plus / Relax — Ipotesi prudenziale
-- Se il veicolo è passato al regime italiano: **Relax Plus** fino a 15 anni/250.000 km ✅
-- Se rimane in regime austriaco: **Relax Garantie** fino a 10 anni/160.000 km (scadenza 15.12.2032)
-- In entrambi i casi: **tutti i tagliandi sono stati fatti in rete Toyota** → Relax attiva ❗
-
-### 5. Battery Care (batteria ibrida) — ✅ PROBABILMENTE ATTIVO
-- Garanzia ibrida di fabbrica: fino al 15.12.2027
-- Dal 5° anno: Battery Care dovrebbe subentrare
-- I tagliandi sono sempre stati fatti in rete Toyota → **gratuito**
-- Al 30.000 km e 45.000 km è stato cambiato il **filtro batteria HV** — segno che il Battery Health Check è stato eseguito
-
-### 6. Batteria 12V — SOSTITUITA (11.10.2025 a 39.212 km)
-- Sostituita da [[CariniSrl|Carini Tavagnacco]] per difficoltà di avviamento
-- La fattura riporta "corrispettivo da determinare con casa madre" e "fattura di cortesia"
-- Possibile intervento in garanzia/Relax
-
-## Riepilogo
-
 | Copertura | Stato | Scadenza |
 |---|---|---|
-| Meccanica (Relax) | ✅ Attiva (se cambio IT ok) o ✅ Attiva (regime AT) | 15 anni/250k km (IT) o 10 anni/160k km (AT) |
-| Componenti ibridi (fabbrica) | ✅ Attiva | 15.12.2027 o 100.000 km |
-| Batteria trazione (Battery Care) | ✅ Attiva (gratuita) | Rinnovata annualmente |
-| Corrosione perforante | ✅ Attiva | 12 anni (senza limite km) |
+| **Garanzia Convenzionale** (3 anni) | ⚠️ **SCADUTA** | 15.12.2025 |
+| **Garanzia Ibrida** (batteria + inverter + centraline) | ✅ **ATTIVA** | **14.12.2027** o 100.000 km |
+| **Relax Plus Italiana** (meccanica + elettronica) | ✅ **ATTIVA** | 15 anni / 250.000 km (da ogni tagliando) |
+| **Battery Care / Hybrid Care** | ❌ **A PAGAMENTO** (€120/anno) | Dal 2028 in poi |
+| **Corrosione perforante** | ✅ **ATTIVA** | 12 anni (senza limite km) |
+| **Eurocare** (assistenza stradale) | ⚠️ **SCADUTA** | 15.12.2025 |
+| **Vernice** | ⚠️ **SCADUTA** | 15.12.2025 |
 
 ## Azioni consigliate
-1. **Verificare con [[CariniSrl]]/Casa Madre** se il veicolo risulta nel sistema CWS italiano o austriaco per Relax
-2. **Confermare** che il Battery Health Check sia stato registrato a ogni tagliando
-3. Alla prossima scadenza ibrida (2027), assicurarsi che Battery Care sia attivato
+1. **Chiedere a Carini Pordenone di eseguire l'HHC** — non è stato fatto al 60.000 km, va recuperato
+2. **Verificare con Toyota Austria** se il Battery Care può essere gratuito in regime AT (dove il primo tagliando in Austria è valido)
+3. **Dal 2028**: valutare se pagare €120/anno per Battery Care o procedere senza
+4. **Prossimo tagliando (75.000 km)**: assicurarsi che HHC sia eseguito e registrato

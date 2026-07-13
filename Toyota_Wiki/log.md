@@ -68,10 +68,23 @@
 
 ## [2026-07-12] TRAIL | EmailCariniWarrantyCheck
 - Creata pagina trail `wiki/trails/EmailCariniWarrantyCheck.md`
-- Bozza email per Carini con richiesta verifica:
-  - Tagliando 30.000 km non presente in app MyToyota
-  - Conferma regime Relax (IT vs AT)
-  - Verifica Battery Health Check registrato
+- Bozza email per Carini con richiesta verifica
+
+## [2026-07-13] INGEST | EmailCariniGiuseppe
+- Added `raw/email_discussion/` with email thread PDF
+- Added `raw/service_history/my_toyota_app_status.jpg`
+
+### Risultati decisivi dalla risposta Carini:
+1. ✅ **Relax Plus Italiana attiva** (tagliandi in IT → regime IT)
+2. ✅ **Garanzia ibrida attiva** fino al **14/12/2027**
+3. ❌ **Battery Care NON gratuito** (€120/anno) — primo tagliando in Austria
+4. ❌ **HHC non eseguito** al tagliando 60.000 km a Pordenone
+5. ✅ Tagliando 30.000 km **correttamente registrato** (non era problema CWS)
+
+### Wiki pages aggiornate:
+- [[EmailCariniGiuseppe]] (source) — thread email completo
+- [[YarisCrossWarrantyStatus]] — synthesis aggiornata con esito
+- [[EmailCariniWarrantyCheck]] — trail aggiornato con risultati
 
 ## [2026-07-12] GRAPH | Knowledge graph built
 - **Graph**: 9 nodi, 10 edges (tutti EXTRACTED da wikilink references)

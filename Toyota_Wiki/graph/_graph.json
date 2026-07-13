@@ -31,6 +31,11 @@
       "type": "entity"
     },
     {
+      "id": "sources/EmailCariniGiuseppe.md",
+      "label": "Email Carini — Richiesta chiarimenti garanzia",
+      "type": "source"
+    },
+    {
       "id": "sources/TagliandoPrezziChiari.md",
       "label": "Tagliando Prezzi Chiari — Yaris Cross 1.5 Hybrid",
       "type": "source"
@@ -128,6 +133,27 @@
       "label": "Copertura batteria di trazione (€120/anno o gratis con cronologia tagliandi)"
     },
     {
+      "from": "sources/EmailCariniGiuseppe.md",
+      "to": "concepts/ToyotaRelaxPlus.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Ora confermata attiva per regime IT"
+    },
+    {
+      "from": "sources/EmailCariniGiuseppe.md",
+      "to": "concepts/ToyotaBatteryCare.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Da notare: non gratuito per chi ha primo tagliando all'estero"
+    },
+    {
+      "from": "sources/EmailCariniGiuseppe.md",
+      "to": "entities/CariniSrl.md",
+      "type": "EXTRACTED",
+      "relation": "references",
+      "label": "Contatti"
+    },
+    {
       "from": "sources/TagliandoPrezziChiari.md",
       "to": "concepts/ToyotaRelaxPlus.md",
       "type": "EXTRACTED",
@@ -163,17 +189,17 @@
     }
   ],
   "stats": {
-    "node_count": 10,
-    "edge_count": 17,
-    "extracted_edges": 17,
+    "node_count": 11,
+    "edge_count": 20,
+    "extracted_edges": 20,
     "inferred_edges": 0,
     "relations": {
-      "references": 17
+      "references": 20
     },
     "types": {
       "concept": 3,
       "entity": 3,
-      "source": 4
+      "source": 5
     }
   }
 }
